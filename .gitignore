@@ -1,0 +1,105 @@
+# Virtual Machine Disk Images #
+###################
+*.vdi
+
+# Data Files #
+###################
+*.gsheet
+*.csv
+*.lmd
+*.bsrt
+*.xml
+*.ods
+*.txt
+*.json
+*.tsv
+
+# Spyder Stuff #
+###################
+*.spyderproject
+*.spyderworkspace
+
+# LibreOffice #
+###################
+*.odp
+*.odt
+
+# Microsoft Office #
+###################
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# TrueCrypt Drives #
+###################
+*.drive
+
+# Weird Framington Heart Study Stuff #
+###################
+*bdat
+*.codenumber
+*.user
+*user
+
+# Binary Files #
+###################
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*.pdf
+*.mat
+*.eps
+*.epsc
+*.png
+*.fig
+*.bmp
+*.tif
+*.bin
+*.pickle
+
+# Compiled source #
+###################
+*.pyc
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Removed: Added MEX files.
+# *.mex*
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.sql
+*.sqlite
+*acquisitions.log
+
+# OS generated files and Matlab auto-save files#
+######################
+$*
+*.ini
+*.asv
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
